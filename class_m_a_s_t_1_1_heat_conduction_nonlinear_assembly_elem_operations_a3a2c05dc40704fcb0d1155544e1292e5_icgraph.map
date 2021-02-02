@@ -1,0 +1,7 @@
+<map id="MAST::HeatConductionNonlinearAssemblyElemOperations::elem_calculations" name="MAST::HeatConductionNonlinearAssemblyElemOperations::elem_calculations">
+<area shape="rect" id="node2" href="$class_m_a_s_t_1_1_heat_conduction_nonlinear_assembly_elem_operations.html#a82253e8a9806be312a03f632f04a296a" title="initializes the object for the geometric element elem. " alt="" coords="315,85,576,132"/>
+<area shape="rect" id="node3" href="$class_m_a_s_t_1_1_heat_conduction_nonlinear_assembly_elem_operations.html#a162c3fac5b3197fa2f9d1a9fc0df0f4a" title="sets the structural element y&#45;vector if 1D element is used. " alt="" coords="624,42,885,106"/>
+<area shape="rect" id="node6" href="$class_m_a_s_t_1_1_heat_conduction_nonlinear_assembly_elem_operations.html#a7f90f6c171809a53efc6f216db5e5062" title="performs the element calculations over elem, and returns the element vector quantity in vec..." alt="" coords="946,111,1245,175"/>
+<area shape="rect" id="node4" href="$class_m_a_s_t_1_1_heat_conduction_nonlinear_assembly_elem_operations.html#a903adf46280f4535681daeceab010383" title="destructor resets the association of this assembly object with the system " alt="" coords="933,5,1257,87"/>
+<area shape="rect" id="node5" href="$class_m_a_s_t_1_1_heat_conduction_nonlinear_assembly_elem_operations.html#ad2e7af0111089ed19525f8cd3a029658" title="constructor associates this assembly object with the system " alt="" coords="1305,14,1636,78"/>
+</map>

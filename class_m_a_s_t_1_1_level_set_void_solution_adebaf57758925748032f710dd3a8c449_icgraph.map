@@ -1,0 +1,4 @@
+<map id="MAST::LevelSetVoidSolution::init" name="MAST::LevelSetVoidSolution::init">
+<area shape="rect" id="node2" href="$class_m_a_s_t_1_1_level_set_nonlinear_implicit_assembly.html#a580a9ade88ba21aff5bbcede5408ae63" title="attaches level set function to this " alt="" coords="284,5,543,52"/>
+<area shape="rect" id="node3" href="$class_m_a_s_t_1_1_level_set_nonlinear_implicit_assembly.html#ada61b664c9bc1ecc585d58fa45570907" title="MAST::LevelSetNonlinearImplicit\lAssembly::get_dof_handler" alt="" coords="591,5,849,52"/>
+</map>

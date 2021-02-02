@@ -1,0 +1,3 @@
+<map id="MAST::AssemblyElemOperations::set_elem_velocity" name="MAST::AssemblyElemOperations::set_elem_velocity">
+<area shape="rect" id="node2" href="$class_m_a_s_t_1_1_element_base.html#ade50f0792666eb38d58a47c5880d48a4" title="stores vec as velocity for element level calculations, or its sensitivity if if_sens is true..." alt="" coords="313,5,492,52"/>
+</map>

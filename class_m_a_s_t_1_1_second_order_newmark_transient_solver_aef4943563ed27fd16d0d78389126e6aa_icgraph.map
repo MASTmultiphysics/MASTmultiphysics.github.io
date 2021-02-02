@@ -1,0 +1,7 @@
+<map id="MAST::SecondOrderNewmarkTransientSolver::update_acceleration" name="MAST::SecondOrderNewmarkTransientSolver::update_acceleration">
+<area shape="rect" id="node2" href="$class_m_a_s_t_1_1_second_order_newmark_transient_solver.html#acc04d2c2dc6c797534a56fe34e699d2d" title="update the transient velocity based on the current solution " alt="" coords="292,5,531,69"/>
+<area shape="rect" id="node3" href="$class_m_a_s_t_1_1_second_order_newmark_transient_solver.html#a17f712893e406269d1bbe4eb09915623" title="provides the element with the transient data for calculations " alt="" coords="579,5,817,69"/>
+<area shape="rect" id="node4" href="$class_m_a_s_t_1_1_second_order_newmark_transient_solver.html#a20d7b38289bd0ad10bb2cb758ef0fefb" title="provides the element with the sensitivity of transient data for calculations " alt="" coords="865,5,1104,69"/>
+<area shape="rect" id="node5" href="$class_m_a_s_t_1_1_second_order_newmark_transient_solver.html#ae57bdb16654e30da2baef84f53f1090a" title="provides the element with the transient data for calculations " alt="" coords="1152,14,1423,61"/>
+<area shape="rect" id="node6" href="$class_m_a_s_t_1_1_second_order_newmark_transient_solver.html#a634156f3c4e2cc7ac97424eb897d35ee" title="MAST::SecondOrderNewmark\lTransientSolver::~SecondOrder\lNewmarkTransientSolver" alt="" coords="1471,5,1717,69"/>
+</map>

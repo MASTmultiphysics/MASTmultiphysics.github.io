@@ -1,0 +1,4 @@
+<map id="MAST::PKFlutterSolver::_bisection_search" name="MAST::PKFlutterSolver::_bisection_search">
+<area shape="rect" id="node2" href="$class_m_a_s_t_1_1_p_k_flutter_solver.html#aa06e8ef2aeec378b162226b4c2ae9114" title="Looks through the list of flutter cross&#45;over points and iteratively zooms in to find the cross&#45;over p..." alt="" coords="241,5,429,52"/>
+<area shape="rect" id="node3" href="$class_m_a_s_t_1_1_p_k_flutter_solver.html#aa51070e257ac45453538f7db87ebe081" title="This method checks if the flutter root corresponding to the lowest velocity crossover has been calcul..." alt="" coords="241,76,429,123"/>
+</map>

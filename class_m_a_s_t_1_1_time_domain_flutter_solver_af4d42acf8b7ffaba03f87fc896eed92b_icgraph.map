@@ -1,0 +1,4 @@
+<map id="MAST::TimeDomainFlutterSolver::calculate_sensitivity" name="MAST::TimeDomainFlutterSolver::calculate_sensitivity">
+<area shape="rect" id="node2" href="$class_m_a_s_t_1_1_time_domain_flutter_solver.html#a4cf15c993f5d7b4081386f6cf6bfb773" title="identifies all cross&#45;over and divergence points from analyzed roots " alt="" coords="312,5,571,52"/>
+<area shape="rect" id="node3" href="$class_m_a_s_t_1_1_time_domain_flutter_solver.html#a247292465fd7a1cc4da06c885ffe8877" title="Scans for flutter roots in the analyzed points, and identified the divergence (if k_red = 0..." alt="" coords="619,5,877,52"/>
+</map>

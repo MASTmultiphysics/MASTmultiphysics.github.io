@@ -1,0 +1,4 @@
+<map id="MAST::StructuralElement2D::calculate_stress_boundary_velocity" name="MAST::StructuralElement2D::calculate_stress_boundary_velocity">
+<area shape="rect" id="node2" href="$class_m_a_s_t_1_1_structural_element2_d.html#adba433547e32668764094b547e55ff9a" title="Calculates the stress tensor. " alt="" coords="287,5,497,52"/>
+<area shape="rect" id="node3" href="$class_m_a_s_t_1_1_structural_element2_d.html#ab88a54f3e5b7b2a9dfa510ce85d6a651" title="MAST::StructuralElement2\lD::if_incompatible_modes" alt="" coords="545,36,756,83"/>
+</map>

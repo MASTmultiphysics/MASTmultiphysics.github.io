@@ -1,0 +1,8 @@
+<map id="MAST::UGFlutterSolution::init" name="MAST::UGFlutterSolution::init">
+<area shape="rect" id="node2" href="$class_m_a_s_t_1_1_u_g_flutter_solver.html#ae016f191ff3c7de7d2aef7ecec980484" title="performs an eigensolution at the specified reference value, and sort the roots based on the provided ..." alt="" coords="256,41,447,88"/>
+<area shape="rect" id="node3" href="$class_m_a_s_t_1_1_u_g_flutter_solver.html#ac9a3d02c50d12262acb7f5553dea6532" title="Scans for flutter roots in the analyzed points, and identified the divergence (if k_red = 0..." alt="" coords="495,5,685,52"/>
+<area shape="rect" id="node4" href="$class_m_a_s_t_1_1_u_g_flutter_solver.html#a5c201dbe4a0d6ce1625480cf95c538b6" title="bisection method search " alt="" coords="495,76,685,123"/>
+<area shape="rect" id="node5" href="$class_m_a_s_t_1_1_u_g_flutter_solver.html#a0fa5406e69027986af37ba47df59fa21" title="Looks through the list of flutter cross&#45;over points and iteratively zooms in to find the cross&#45;over p..." alt="" coords="733,5,924,52"/>
+<area shape="rect" id="node6" href="$class_m_a_s_t_1_1_u_g_flutter_solver.html#a89e0fe072c3d810753925f0cd0674028" title="This method checks if the flutter root corresponding to the lowest velocity crossover has been calcul..." alt="" coords="733,76,924,123"/>
+<area shape="rect" id="node7" href="$class_m_a_s_t_1_1_u_g_flutter_solver.html#a894cd84e5d2da97c14e0c21413bcedf9" title="Prints the crossover points output. " alt="" coords="733,147,924,193"/>
+</map>

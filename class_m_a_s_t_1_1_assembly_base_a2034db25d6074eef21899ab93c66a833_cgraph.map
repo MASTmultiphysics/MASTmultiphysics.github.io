@@ -1,0 +1,6 @@
+<map id="MAST::AssemblyBase::~AssemblyBase" name="MAST::AssemblyBase::~AssemblyBase">
+<area shape="rect" id="node2" href="$class_m_a_s_t_1_1_assembly_base.html#a9f7f65a2be3dc8f6edb9000020aa8ccf" title="clears association with a system to this discipline " alt="" coords="237,5,420,69"/>
+<area shape="rect" id="node3" href="$class_m_a_s_t_1_1_assembly_base.html#ad607ffca1c704155f56f503cbfe6350a" title="clears the association of this object with the assembly element operation object. ..." alt="" coords="236,93,421,157"/>
+<area shape="rect" id="node4" href="$class_m_a_s_t_1_1_assembly_elem_operations.html#a4e6d01c9391e881f98a6caeb9a14503b" title="clears the assembly object " alt="" coords="469,66,729,113"/>
+<area shape="rect" id="node5" href="$class_m_a_s_t_1_1_assembly_base.html#ad37944186c61ab97dfc315d53f873e60" title="localizes the parallel vector so that the local copy stores all values necessary for calculation of t..." alt="" coords="504,137,695,183"/>
+</map>

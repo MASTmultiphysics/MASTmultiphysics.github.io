@@ -1,0 +1,6 @@
+<map id="MAST::MindlinBendingOperator::calculate_transverse_shear_residual" name="MAST::MindlinBendingOperator::calculate_transverse_shear_residual">
+<area shape="rect" id="node2" href="$class_m_a_s_t_1_1_mindlin_bending_operator.html#af485ad8c8285c4ddf2942a940160a0f8" title="initializes the bending strain operator for the specified quadrature point and z&#45;location. " alt="" coords="303,56,552,120"/>
+<area shape="rect" id="node5" href="$class_m_a_s_t_1_1_mindlin_bending_operator.html#a85cc971571695208b95385dc86b35c19" title="returns true if this bending operator supports a transverse shear component " alt="" coords="897,85,1169,131"/>
+<area shape="rect" id="node3" href="$class_m_a_s_t_1_1_mindlin_bending_operator.html#ae2061d51cdd20a3187d44741852b0f6e" title="initialze the bending strain operator for Mindlin element, withouth the z&#45;location. " alt="" coords="600,5,849,69"/>
+<area shape="rect" id="node4" href="$class_m_a_s_t_1_1_mindlin_bending_operator.html#a843150a96964215b425c8d17febf4d62" title="MAST::MindlinBendingOperator\l::~MindlinBendingOperator" alt="" coords="909,14,1158,61"/>
+</map>

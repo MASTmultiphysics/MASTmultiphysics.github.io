@@ -1,0 +1,5 @@
+<map id="MAST::StructuralElement2D" name="MAST::StructuralElement2D">
+<area shape="rect" id="node2" href="$class_m_a_s_t_1_1_bending_structural_elem.html" title="MAST::BendingStructuralElem" alt="" coords="5,160,245,189"/>
+<area shape="rect" id="node3" href="$class_m_a_s_t_1_1_structural_element_base.html" title="MAST::StructuralElementBase" alt="" coords="6,83,245,112"/>
+<area shape="rect" id="node4" href="$class_m_a_s_t_1_1_element_base.html" title="This is the base class for elements that implement calculation of finite element quantities over the ..." alt="" coords="40,5,211,35"/>
+</map>

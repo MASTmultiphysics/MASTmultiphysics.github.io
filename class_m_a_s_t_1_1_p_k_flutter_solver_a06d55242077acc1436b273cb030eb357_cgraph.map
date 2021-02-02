@@ -1,0 +1,6 @@
+<map id="MAST::PKFlutterSolver::_insert_new_solution" name="MAST::PKFlutterSolver::_insert_new_solution">
+<area shape="rect" id="node2" href="$class_m_a_s_t_1_1_flutter_solution_base.html#a598447efa26e705b8413457d4fcef80c" title="the reduced frequency for this solution " alt="" coords="241,5,457,52"/>
+<area shape="rect" id="node3" href="$class_m_a_s_t_1_1_flutter_solution_base.html#a93bfe4bc9dfe793ce6d159ded5bcbe07" title="number of roots in this solution " alt="" coords="241,76,457,123"/>
+<area shape="rect" id="node4" href="$class_m_a_s_t_1_1_flutter_solution_base.html#a3852448dab4e44011d9929819fc59474" title="MAST::FlutterSolutionBase\l::get_root" alt="" coords="241,147,457,193"/>
+<area shape="rect" id="node5" href="$class_m_a_s_t_1_1_flutter_root_base.html#a1851dabffaef8e1557693028abcdf973" title="MAST::FlutterRootBase\l::copy_root" alt="" coords="254,217,445,264"/>
+</map>

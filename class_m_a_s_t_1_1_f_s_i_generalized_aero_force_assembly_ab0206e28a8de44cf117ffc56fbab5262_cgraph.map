@@ -1,0 +1,5 @@
+<map id="MAST::FSIGeneralizedAeroForceAssembly::init" name="MAST::FSIGeneralizedAeroForceAssembly::init">
+<area shape="rect" id="node2" href="$class_m_a_s_t_1_1_assembly_base.html#adcc03f1662807d86d866ee3a4e2b60df" title="attaches a element operation to this object, and associated this with the element operation object..." alt="" coords="295,5,477,69"/>
+<area shape="rect" id="node4" href="$class_m_a_s_t_1_1_complex_solver_base.html#a90323ae4048c3d773fdee732a7b78ee6" title="sets the assembly object for this solver " alt="" coords="275,94,497,141"/>
+<area shape="rect" id="node3" href="$class_m_a_s_t_1_1_assembly_elem_operations.html#ac8c536e86f20680c1e6e41317bd12d2b" title="sets the assembly object " alt="" coords="545,14,805,61"/>
+</map>

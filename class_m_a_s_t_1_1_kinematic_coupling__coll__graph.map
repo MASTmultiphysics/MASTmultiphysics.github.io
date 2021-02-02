@@ -1,0 +1,5 @@
+<map id="MAST::KinematicCoupling" name="MAST::KinematicCoupling">
+<area shape="rect" id="node2" href="$class_m_a_s_t_1_1_do_f_coupling_base.html" title="This provides a base class to couple degrees&#45;of&#45;freedom within a single system. " alt="" coords="8,291,216,320"/>
+<area shape="rect" id="node3" href="$class_m_a_s_t_1_1_system_initialization.html" title="MAST::SystemInitialization" alt="" coords="5,196,219,225"/>
+<area shape="rect" id="node4" href="$class_m_a_s_t_1_1_nonlinear_system.html" title="This class implements a system for solution of nonlinear systems. " alt="" coords="13,101,211,131"/>
+</map>

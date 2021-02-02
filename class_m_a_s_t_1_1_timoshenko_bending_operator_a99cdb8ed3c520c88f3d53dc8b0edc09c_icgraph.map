@@ -1,0 +1,6 @@
+<map id="MAST::TimoshenkoBendingOperator::calculate_transverse_shear_residual" name="MAST::TimoshenkoBendingOperator::calculate_transverse_shear_residual">
+<area shape="rect" id="node2" href="$class_m_a_s_t_1_1_timoshenko_bending_operator.html#ad001a9ccce62b402ac9c27493a307df3" title="initializes the bending strain operator for the specified quadrature point and y,z&#45;location. " alt="" coords="339,56,624,120"/>
+<area shape="rect" id="node5" href="$class_m_a_s_t_1_1_timoshenko_bending_operator.html#a8628a4b9dc96faf6747957443767e482" title="returns true if this bending operator supports a transverse shear component " alt="" coords="1005,85,1291,131"/>
+<area shape="rect" id="node3" href="$class_m_a_s_t_1_1_timoshenko_bending_operator.html#accc5b94d0dfc340a219b4943f0f9bd2c" title="initialze the bending strain operator for Timoshenko beam element, withouth the y,z&#45;location. " alt="" coords="672,5,957,69"/>
+<area shape="rect" id="node4" href="$class_m_a_s_t_1_1_timoshenko_bending_operator.html#a504f49d204479eedbdd9ef351535b7da" title="MAST::TimoshenkoBendingOperator\l::~TimoshenkoBendingOperator" alt="" coords="1005,14,1291,61"/>
+</map>

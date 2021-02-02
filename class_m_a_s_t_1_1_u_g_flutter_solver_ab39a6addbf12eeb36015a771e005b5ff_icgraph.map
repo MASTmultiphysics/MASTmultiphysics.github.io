@@ -1,0 +1,12 @@
+<map id="MAST::UGFlutterSolver::_initialize_matrix_sensitivity_for_kr" name="MAST::UGFlutterSolver::_initialize_matrix_sensitivity_for_kr">
+<area shape="rect" id="node2" href="$class_m_a_s_t_1_1_u_g_flutter_solver.html#af07dae298befdf4cfca4b8e8af183e98" title="Assembles the reduced order system structural and aerodynmaic matrices for specified flight velocity ..." alt="" coords="244,185,435,249"/>
+<area shape="rect" id="node10" href="$class_m_a_s_t_1_1_u_g_flutter_solver.html#ad220c987db01de270157c275105a65ee" title="Calculate the sensitivity of the flutter root with respect to the f parameter. " alt="" coords="721,217,912,264"/>
+<area shape="rect" id="node3" href="$class_m_a_s_t_1_1_u_g_flutter_solver.html#a95fbf3c7b4741821d2e0113c71c1b04d" title="Assembles the reduced order system structural and aerodynmaic matrices for specified reduced freq kr..." alt="" coords="483,151,673,197"/>
+<area shape="rect" id="node4" href="$class_m_a_s_t_1_1_u_g_flutter_solver.html#ae016f191ff3c7de7d2aef7ecec980484" title="performs an eigensolution at the specified reference value, and sort the roots based on the provided ..." alt="" coords="721,147,912,193"/>
+<area shape="rect" id="node5" href="$class_m_a_s_t_1_1_u_g_flutter_solver.html#ac9a3d02c50d12262acb7f5553dea6532" title="Scans for flutter roots in the analyzed points, and identified the divergence (if k_red = 0..." alt="" coords="1199,217,1389,264"/>
+<area shape="rect" id="node6" href="$class_m_a_s_t_1_1_u_g_flutter_solver.html#a5c201dbe4a0d6ce1625480cf95c538b6" title="bisection method search " alt="" coords="960,81,1151,128"/>
+<area shape="rect" id="node7" href="$class_m_a_s_t_1_1_u_g_flutter_solver.html#a0fa5406e69027986af37ba47df59fa21" title="Looks through the list of flutter cross&#45;over points and iteratively zooms in to find the cross&#45;over p..." alt="" coords="1199,76,1389,123"/>
+<area shape="rect" id="node8" href="$class_m_a_s_t_1_1_u_g_flutter_solver.html#a89e0fe072c3d810753925f0cd0674028" title="This method checks if the flutter root corresponding to the lowest velocity crossover has been calcul..." alt="" coords="1199,147,1389,193"/>
+<area shape="rect" id="node9" href="$class_m_a_s_t_1_1_u_g_flutter_solver.html#a894cd84e5d2da97c14e0c21413bcedf9" title="Prints the crossover points output. " alt="" coords="1199,5,1389,52"/>
+<area shape="rect" id="node11" href="$class_m_a_s_t_1_1_u_g_flutter_solver.html#a4cfcfc2bb856162b098c82a79ff73cee" title="identifies all cross&#45;over and divergence points from analyzed roots " alt="" coords="960,209,1151,273"/>
+</map>

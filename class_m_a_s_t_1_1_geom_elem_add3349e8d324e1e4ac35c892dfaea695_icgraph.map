@@ -1,0 +1,4 @@
+<map id="MAST::GeomElem::get_reference_local_elem" name="MAST::GeomElem::get_reference_local_elem">
+<area shape="rect" id="node2" href="$class_m_a_s_t_1_1_sub_cell_f_e.html#aa3c6d7c6fa63e1ae3c61c3d6d6797c17" title="This assumes that elem is the sub&#45;cell and that the original element will be available as the parent ..." alt="" coords="239,5,421,35"/>
+<area shape="rect" id="node3" href="$class_m_a_s_t_1_1_sub_cell_f_e.html#a27cf5b4736907eca9dfb2264cca7f90f" title="This assumes that elem is the sub&#45;cell and that the original element will be available as the parent ..." alt="" coords="239,59,421,106"/>
+</map>

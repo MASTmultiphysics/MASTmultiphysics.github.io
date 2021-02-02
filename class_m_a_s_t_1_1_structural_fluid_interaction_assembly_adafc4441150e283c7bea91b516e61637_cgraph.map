@@ -1,0 +1,5 @@
+<map id="MAST::StructuralFluidInteractionAssembly::StructuralFluidInteractionAssembly" name="MAST::StructuralFluidInteractionAssembly::StructuralFluidInteractionAssembly">
+<area shape="rect" id="node2" href="$class_m_a_s_t_1_1_structural_fluid_interaction_assembly.html#a7d7d446677dca4cccaeb16dafe03ce76" title="destructor resets the association of this assembly object with the system " alt="" coords="332,5,619,69"/>
+<area shape="rect" id="node3" href="$class_m_a_s_t_1_1_structural_fluid_interaction_assembly.html#aa8ef0136ba91811a9c2aea0ecafe2212" title="clears association with a system to this discipline, and vice&#45;a&#45;versa " alt="" coords="667,5,920,69"/>
+<area shape="rect" id="node4" href="$class_m_a_s_t_1_1_assembly_base.html#a9f7f65a2be3dc8f6edb9000020aa8ccf" title="clears association with a system to this discipline " alt="" coords="968,5,1151,69"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="MAST::Solid1DSectionElementPropertyCard::stiffness_B_matrix" name="MAST::Solid1DSectionElementPropertyCard::stiffness_B_matrix">
+<area shape="rect" id="node2" href="$class_m_a_s_t_1_1_solid1_d_section_element_property_card.html#a3817c4ab2b96c4b31cc10afda0c88df3" title="MAST::Solid1DSectionElement\lPropertyCard::stiffness\l_A_matrix" alt="" coords="300,7,547,71"/>
+<area shape="rect" id="node5" href="$class_m_a_s_t_1_1_solid1_d_section_element_property_card.html#a41dbffa4a192f5824cd221ad5fb94b92" title="virtual destructor " alt="" coords="595,77,900,141"/>
+<area shape="rect" id="node3" href="$class_m_a_s_t_1_1_solid1_d_section_element_property_card.html#af178105164672584bc316823ebf2e4e0" title="MAST::Solid1DSectionElement\lPropertyCard::init" alt="" coords="624,5,871,52"/>
+<area shape="rect" id="node4" href="$class_m_a_s_t_1_1_solid1_d_section_element_property_card.html#a5a3e79d3ca7f046c3a7e59d71e68203e" title="returns a reference to the material " alt="" coords="948,5,1195,52"/>
+</map>

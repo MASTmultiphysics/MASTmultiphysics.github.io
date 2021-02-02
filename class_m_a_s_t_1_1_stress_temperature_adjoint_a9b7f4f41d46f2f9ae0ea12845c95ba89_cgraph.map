@@ -1,0 +1,6 @@
+<map id="MAST::StressTemperatureAdjoint::~StressTemperatureAdjoint" name="MAST::StressTemperatureAdjoint::~StressTemperatureAdjoint">
+<area shape="rect" id="node2" href="$class_m_a_s_t_1_1_stress_temperature_adjoint.html#a7a56f9310396621c0f8d1869aabb813e" title="MAST::StressTemperatureAdjoint\l::set_thermal_assembly" alt="" coords="315,41,576,88"/>
+<area shape="rect" id="node3" href="$class_m_a_s_t_1_1_stress_temperature_adjoint.html#a0854aebad7651a4c824817c1dcc0d991" title="MAST::StressTemperatureAdjoint\l::set_structural_solutions" alt="" coords="624,41,885,88"/>
+<area shape="rect" id="node4" href="$class_m_a_s_t_1_1_assembly_base.html#ad37944186c61ab97dfc315d53f873e60" title="localizes the parallel vector so that the local copy stores all values necessary for calculation of t..." alt="" coords="945,5,1135,52"/>
+<area shape="rect" id="node5" href="$class_m_a_s_t_1_1_system_initialization.html#a40ed0a5367703c7bac16cc8d0917fc29" title="MAST::SystemInitialization\l::system" alt="" coords="933,76,1147,123"/>
+</map>

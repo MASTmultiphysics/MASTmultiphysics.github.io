@@ -1,0 +1,10 @@
+<map id="MAST::TimeDomainFlutterRoot::init" name="MAST::TimeDomainFlutterRoot::init">
+<area shape="rect" id="node2" href="$class_m_a_s_t_1_1_time_domain_flutter_solution.html#a9c6b5c5aef2623e432404687321d2ef3" title="initializes the root " alt="" coords="300,94,571,141"/>
+<area shape="rect" id="node3" href="$class_m_a_s_t_1_1_time_domain_flutter_solver.html#abf721ecd480367a291f963c17727ec61" title="performs an eigensolution at the specified reference value, and sort the roots based on the provided ..." alt="" coords="619,94,877,141"/>
+<area shape="rect" id="node4" href="$class_m_a_s_t_1_1_time_domain_flutter_solver.html#a8756226e06477517aa2f34c163109695" title="This root starts with the lower velocity and increments the speed till a single unstable root is iden..." alt="" coords="925,5,1184,69"/>
+<area shape="rect" id="node6" href="$class_m_a_s_t_1_1_time_domain_flutter_solver.html#a247292465fd7a1cc4da06c885ffe8877" title="Scans for flutter roots in the analyzed points, and identified the divergence (if k_red = 0..." alt="" coords="925,94,1184,141"/>
+<area shape="rect" id="node7" href="$class_m_a_s_t_1_1_time_domain_flutter_solver.html#a9f3d8ca9cc116fd56c8c1a27655f24e2" title="bisection method search " alt="" coords="925,165,1184,211"/>
+<area shape="rect" id="node5" href="$class_m_a_s_t_1_1_time_domain_flutter_solver.html#a3a8a0b5dbfd3bd2afbfedd11dcd81f64" title="This method checks if the flutter root corresponding to the lowest velocity crossover has been calcul..." alt="" coords="1232,37,1491,83"/>
+<area shape="rect" id="node8" href="$class_m_a_s_t_1_1_time_domain_flutter_solver.html#a358b15c56c3102eaf21a3aada118d3db" title="Looks through the list of flutter cross&#45;over points and iteratively zooms in to find the cross&#45;over p..." alt="" coords="1232,129,1491,175"/>
+<area shape="rect" id="node9" href="$class_m_a_s_t_1_1_time_domain_flutter_solver.html#a8b7f44d7663fb31765cd91cb3b25e84c" title="Prints the crossover points output. " alt="" coords="1232,199,1491,246"/>
+</map>

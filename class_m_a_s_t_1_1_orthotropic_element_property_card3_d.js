@@ -1,0 +1,27 @@
+var class_m_a_s_t_1_1_orthotropic_element_property_card3_d =
+[
+    [ "OrthotropicElementPropertyCard3D", "class_m_a_s_t_1_1_orthotropic_element_property_card3_d.html#a59ef9ac0fd8d86642f017c5d7920a057", null ],
+    [ "~OrthotropicElementPropertyCard3D", "class_m_a_s_t_1_1_orthotropic_element_property_card3_d.html#a3706ff937609aa442663e386cc71c21d", null ],
+    [ "bending_model", "class_m_a_s_t_1_1_orthotropic_element_property_card3_d.html#afd6c41c69973ee52dbcda4a037e60eb1", null ],
+    [ "damping_matrix", "class_m_a_s_t_1_1_orthotropic_element_property_card3_d.html#acc9b7a9bb5197b45b6df7fd37cf81f7d", null ],
+    [ "depends_on", "class_m_a_s_t_1_1_orthotropic_element_property_card3_d.html#a4baada3bf90b07bb88028c6cc17a4388", null ],
+    [ "dim", "class_m_a_s_t_1_1_orthotropic_element_property_card3_d.html#ae025946b9fe87046fa8f3ff7c2f7e289", null ],
+    [ "extra_quadrature_order", "class_m_a_s_t_1_1_orthotropic_element_property_card3_d.html#a8add692042680dae9b8727fb36d89b18", null ],
+    [ "get_material", "class_m_a_s_t_1_1_orthotropic_element_property_card3_d.html#a273f3c439eb289a1c51c5854aa374e67", null ],
+    [ "if_isotropic", "class_m_a_s_t_1_1_orthotropic_element_property_card3_d.html#a11d83fa28c948e826932c7aa0d53a890", null ],
+    [ "inertia_matrix", "class_m_a_s_t_1_1_orthotropic_element_property_card3_d.html#a0248eb8c0943f4ac1d5d86a120d48817", null ],
+    [ "prestress_A_matrix", "class_m_a_s_t_1_1_orthotropic_element_property_card3_d.html#a6d671186721e78a664bb08bc506a2fd8", null ],
+    [ "prestress_B_matrix", "class_m_a_s_t_1_1_orthotropic_element_property_card3_d.html#a1ee16a72eee37afb7cabf1dfbcaa377f", null ],
+    [ "set_material", "class_m_a_s_t_1_1_orthotropic_element_property_card3_d.html#aca928d1ee13e10bb2e86737db8b8fe17", null ],
+    [ "set_orientation", "class_m_a_s_t_1_1_orthotropic_element_property_card3_d.html#a0eac046351082528d2a4f57bd8376251", null ],
+    [ "stiffness_A_matrix", "class_m_a_s_t_1_1_orthotropic_element_property_card3_d.html#a358ecf828055ccdaade884e6e1510f5c", null ],
+    [ "stiffness_B_matrix", "class_m_a_s_t_1_1_orthotropic_element_property_card3_d.html#a0ecde21e7619ea2ef1cde29de5e83b88", null ],
+    [ "stiffness_D_matrix", "class_m_a_s_t_1_1_orthotropic_element_property_card3_d.html#a296d34a6fc5b91ba0a1d4e61cf88fdfe", null ],
+    [ "thermal_capacitance_matrix", "class_m_a_s_t_1_1_orthotropic_element_property_card3_d.html#aceb0dd89689437aeab9ecd029f6f4580", null ],
+    [ "thermal_conductance_matrix", "class_m_a_s_t_1_1_orthotropic_element_property_card3_d.html#a5efa64db46360351c5db53b949112028", null ],
+    [ "thermal_expansion_A_matrix", "class_m_a_s_t_1_1_orthotropic_element_property_card3_d.html#abdb13130864bb0d6a9201a1244fd95f7", null ],
+    [ "thermal_expansion_B_matrix", "class_m_a_s_t_1_1_orthotropic_element_property_card3_d.html#af7b14b740870b9adb1aa2d17e5a71c90", null ],
+    [ "transverse_shear_stiffness_matrix", "class_m_a_s_t_1_1_orthotropic_element_property_card3_d.html#a4b59a40993ae0213ffd3d7d5073149c9", null ],
+    [ "_material", "class_m_a_s_t_1_1_orthotropic_element_property_card3_d.html#aee757982b7e23e969581d18c2f4e19ce", null ],
+    [ "_orient", "class_m_a_s_t_1_1_orthotropic_element_property_card3_d.html#a44d7bda418eeb9be0e488db3997c345d", null ]
+];

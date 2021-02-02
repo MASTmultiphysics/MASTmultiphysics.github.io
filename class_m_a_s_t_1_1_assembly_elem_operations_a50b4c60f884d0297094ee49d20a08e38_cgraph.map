@@ -1,0 +1,5 @@
+<map id="MAST::AssemblyElemOperations::~AssemblyElemOperations" name="MAST::AssemblyElemOperations::~AssemblyElemOperations">
+<area shape="rect" id="node2" href="$class_m_a_s_t_1_1_assembly_elem_operations.html#aad8893093e07905b7e5071468b23514c" title="clears the element initialization " alt="" coords="313,5,573,52"/>
+<area shape="rect" id="node3" href="$class_m_a_s_t_1_1_assembly_elem_operations.html#affb65f707a71004834a34987f14749c5" title="attaches a system to this discipline " alt="" coords="313,76,573,123"/>
+<area shape="rect" id="node4" href="$class_m_a_s_t_1_1_assembly_elem_operations.html#ab795ab85f3e09c191d8876f1c6ed2847" title="clears association with a system to this discipline " alt="" coords="621,76,881,123"/>
+</map>

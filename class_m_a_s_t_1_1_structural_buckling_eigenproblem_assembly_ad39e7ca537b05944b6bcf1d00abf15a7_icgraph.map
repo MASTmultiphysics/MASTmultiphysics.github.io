@@ -1,0 +1,4 @@
+<map id="MAST::StructuralBucklingEigenproblemAssembly::set_buckling_data" name="MAST::StructuralBucklingEigenproblemAssembly::set_buckling_data">
+<area shape="rect" id="node2" href="$class_m_a_s_t_1_1_structural_buckling_eigenproblem_assembly.html#a238bb897cfa85dbab9feec8d7d5bf528" title="destructor resets the association with the eigen system from this assembly object ..." alt="" coords="259,5,520,87"/>
+<area shape="rect" id="node3" href="$class_m_a_s_t_1_1_structural_buckling_eigenproblem_assembly.html#ace8e21aad91f168324a257131d9a5531" title="constructor associates the eigen system with this assembly object " alt="" coords="568,5,820,87"/>
+</map>

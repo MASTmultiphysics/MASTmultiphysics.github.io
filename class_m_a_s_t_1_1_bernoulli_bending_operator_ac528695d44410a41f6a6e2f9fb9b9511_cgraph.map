@@ -1,0 +1,7 @@
+<map id="MAST::BernoulliBendingOperator::include_transverse_shear_energy" name="MAST::BernoulliBendingOperator::include_transverse_shear_energy">
+<area shape="rect" id="node2" href="$class_m_a_s_t_1_1_bernoulli_bending_operator.html#ae5f137ab0bfd3c102471fe35769c870d" title="initialze the bending strain operator for Bernoulli element, withouth the y,z&#45;location. " alt="" coords="325,5,587,69"/>
+<area shape="rect" id="node3" href="$class_m_a_s_t_1_1_bernoulli_bending_operator.html#a6e478e01ea0eb912752f48acc2b08419" title="initializes the bending strain operator for the specified quadrature point and y,z&#45;location. " alt="" coords="635,40,896,104"/>
+<area shape="rect" id="node4" href="$class_m_a_s_t_1_1_f_e_m_operator_matrix.html#aad95bb357e56bd78f2a063098642580b" title="sets the shape function values for the block corresponding to interpolated_var and discrete_var..." alt="" coords="944,49,1159,95"/>
+<area shape="rect" id="node5" href="$class_m_a_s_t_1_1_f_e_m_operator_matrix.html#a0ab122cd5e142eb4f3ccd63f55487677" title="this initializes the operator for number of rows and variables, assuming that all variables has the s..." alt="" coords="1207,49,1421,95"/>
+<area shape="rect" id="node6" href="$class_m_a_s_t_1_1_f_e_m_operator_matrix.html#a67224893a9349eb0591c195a125b4764" title="clears the data structures " alt="" coords="1469,49,1684,95"/>
+</map>

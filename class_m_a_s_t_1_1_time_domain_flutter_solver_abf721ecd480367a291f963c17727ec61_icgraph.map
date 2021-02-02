@@ -1,0 +1,8 @@
+<map id="MAST::TimeDomainFlutterSolver::_analyze" name="MAST::TimeDomainFlutterSolver::_analyze">
+<area shape="rect" id="node2" href="$class_m_a_s_t_1_1_time_domain_flutter_solver.html#a8756226e06477517aa2f34c163109695" title="This root starts with the lower velocity and increments the speed till a single unstable root is iden..." alt="" coords="312,5,571,69"/>
+<area shape="rect" id="node4" href="$class_m_a_s_t_1_1_time_domain_flutter_solver.html#a247292465fd7a1cc4da06c885ffe8877" title="Scans for flutter roots in the analyzed points, and identified the divergence (if k_red = 0..." alt="" coords="312,94,571,141"/>
+<area shape="rect" id="node5" href="$class_m_a_s_t_1_1_time_domain_flutter_solver.html#a9f3d8ca9cc116fd56c8c1a27655f24e2" title="bisection method search " alt="" coords="312,165,571,211"/>
+<area shape="rect" id="node3" href="$class_m_a_s_t_1_1_time_domain_flutter_solver.html#a3a8a0b5dbfd3bd2afbfedd11dcd81f64" title="This method checks if the flutter root corresponding to the lowest velocity crossover has been calcul..." alt="" coords="619,37,877,83"/>
+<area shape="rect" id="node6" href="$class_m_a_s_t_1_1_time_domain_flutter_solver.html#a358b15c56c3102eaf21a3aada118d3db" title="Looks through the list of flutter cross&#45;over points and iteratively zooms in to find the cross&#45;over p..." alt="" coords="619,129,877,175"/>
+<area shape="rect" id="node7" href="$class_m_a_s_t_1_1_time_domain_flutter_solver.html#a8b7f44d7663fb31765cd91cb3b25e84c" title="Prints the crossover points output. " alt="" coords="619,199,877,246"/>
+</map>

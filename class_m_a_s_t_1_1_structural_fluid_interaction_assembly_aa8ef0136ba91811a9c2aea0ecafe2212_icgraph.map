@@ -1,0 +1,5 @@
+<map id="MAST::StructuralFluidInteractionAssembly::clear_discipline_and_system" name="MAST::StructuralFluidInteractionAssembly::clear_discipline_and_system">
+<area shape="rect" id="node2" href="$class_m_a_s_t_1_1_f_s_i_generalized_aero_force_assembly.html#a21aaac22c99ca7dc2e5d86f14143aa1e" title="clears association with a system to this discipline, and vice&#45;a&#45;versa " alt="" coords="323,5,577,69"/>
+<area shape="rect" id="node3" href="$class_m_a_s_t_1_1_structural_fluid_interaction_assembly.html#a7d7d446677dca4cccaeb16dafe03ce76" title="destructor resets the association of this assembly object with the system " alt="" coords="307,93,593,157"/>
+<area shape="rect" id="node4" href="$class_m_a_s_t_1_1_structural_fluid_interaction_assembly.html#adafc4441150e283c7bea91b516e61637" title="constructor associates this assembly object with the system " alt="" coords="641,93,920,157"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="MAST::HeatConductionTransientAssemblyElemOperations::elem_calculations" name="MAST::HeatConductionTransientAssemblyElemOperations::elem_calculations">
+<area shape="rect" id="node2" href="$class_m_a_s_t_1_1_heat_conduction_transient_assembly_elem_operations.html#acfb1660ccc4eef1f9d8b1b8c4e8c627d" title="destructor resets the association of this assembly object with the system " alt="" coords="312,5,633,87"/>
+<area shape="rect" id="node3" href="$class_m_a_s_t_1_1_heat_conduction_transient_assembly_elem_operations.html#ac063f7e5c1dcce474e090994b0894e13" title="constructor associates this assembly object with the system " alt="" coords="681,14,1012,78"/>
+</map>

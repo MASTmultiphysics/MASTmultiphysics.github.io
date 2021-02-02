@@ -1,0 +1,7 @@
+<map id="MAST::TimoshenkoBendingOperator::calculate_transverse_shear_residual_sensitivity" name="MAST::TimoshenkoBendingOperator::calculate_transverse_shear_residual_sensitivity">
+<area shape="rect" id="node2" href="$class_m_a_s_t_1_1_timoshenko_bending_operator.html#a99cdb8ed3c520c88f3d53dc8b0edc09c" title="calculate the transverse shear component for the element " alt="" coords="339,107,624,171"/>
+<area shape="rect" id="node6" href="$class_m_a_s_t_1_1_timoshenko_bending_operator.html#a8628a4b9dc96faf6747957443767e482" title="returns true if this bending operator supports a transverse shear component " alt="" coords="1339,110,1624,157"/>
+<area shape="rect" id="node3" href="$class_m_a_s_t_1_1_timoshenko_bending_operator.html#ad001a9ccce62b402ac9c27493a307df3" title="initializes the bending strain operator for the specified quadrature point and y,z&#45;location. " alt="" coords="672,56,957,120"/>
+<area shape="rect" id="node4" href="$class_m_a_s_t_1_1_timoshenko_bending_operator.html#accc5b94d0dfc340a219b4943f0f9bd2c" title="initialze the bending strain operator for Timoshenko beam element, withouth the y,z&#45;location. " alt="" coords="1005,5,1291,69"/>
+<area shape="rect" id="node5" href="$class_m_a_s_t_1_1_timoshenko_bending_operator.html#a504f49d204479eedbdd9ef351535b7da" title="MAST::TimoshenkoBendingOperator\l::~TimoshenkoBendingOperator" alt="" coords="1339,14,1624,61"/>
+</map>

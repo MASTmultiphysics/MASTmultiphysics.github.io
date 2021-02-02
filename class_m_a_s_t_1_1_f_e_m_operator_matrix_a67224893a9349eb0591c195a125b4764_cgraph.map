@@ -1,0 +1,4 @@
+<map id="MAST::FEMOperatorMatrix::clear" name="MAST::FEMOperatorMatrix::clear">
+<area shape="rect" id="node2" href="$class_m_a_s_t_1_1_f_e_m_operator_matrix.html#a0ab122cd5e142eb4f3ccd63f55487677" title="this initializes the operator for number of rows and variables, assuming that all variables has the s..." alt="" coords="268,5,483,52"/>
+<area shape="rect" id="node3" href="$class_m_a_s_t_1_1_f_e_m_operator_matrix.html#aad95bb357e56bd78f2a063098642580b" title="sets the shape function values for the block corresponding to interpolated_var and discrete_var..." alt="" coords="531,5,745,52"/>
+</map>

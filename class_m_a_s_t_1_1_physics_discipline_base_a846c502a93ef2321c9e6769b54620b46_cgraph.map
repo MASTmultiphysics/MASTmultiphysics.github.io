@@ -1,0 +1,4 @@
+<map id="MAST::PhysicsDisciplineBase::side_loads" name="MAST::PhysicsDisciplineBase::side_loads">
+<area shape="rect" id="node2" href="$class_m_a_s_t_1_1_physics_discipline_base.html#a340fe2894ed2faccc6ab083f7f5650d3" title="adds the specified volume loads for the elements with subdomain tag s_id " alt="" coords="292,5,531,52"/>
+<area shape="rect" id="node3" href="$class_m_a_s_t_1_1_physics_discipline_base.html#ae2514442aee9acd3bc0ff85791b10be1" title="adds the specified point load " alt="" coords="292,76,531,123"/>
+</map>

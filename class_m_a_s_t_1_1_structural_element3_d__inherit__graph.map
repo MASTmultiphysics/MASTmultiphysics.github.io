@@ -1,0 +1,4 @@
+<map id="MAST::StructuralElement3D" name="MAST::StructuralElement3D">
+<area shape="rect" id="node2" href="$class_m_a_s_t_1_1_structural_element_base.html" title="MAST::StructuralElementBase" alt="" coords="5,83,244,112"/>
+<area shape="rect" id="node3" href="$class_m_a_s_t_1_1_element_base.html" title="This is the base class for elements that implement calculation of finite element quantities over the ..." alt="" coords="39,5,210,35"/>
+</map>

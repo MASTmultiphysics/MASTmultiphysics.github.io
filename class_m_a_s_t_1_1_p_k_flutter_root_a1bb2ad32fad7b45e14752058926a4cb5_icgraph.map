@@ -1,0 +1,10 @@
+<map id="MAST::PKFlutterRoot::init" name="MAST::PKFlutterRoot::init">
+<area shape="rect" id="node2" href="$class_m_a_s_t_1_1_p_k_flutter_root.html#a5f6f3b354d400e48ae3839c4e543ca18" title="MAST::PKFlutterRoot\l::~PKFlutterRoot" alt="" coords="242,5,418,52"/>
+<area shape="rect" id="node3" href="$class_m_a_s_t_1_1_p_k_flutter_solution.html#af2b601b83b45daeafe03eb582dc3e837" title="initializes the flutter solution from an eigensolution " alt="" coords="229,76,431,123"/>
+<area shape="rect" id="node4" href="$class_m_a_s_t_1_1_p_k_flutter_solution.html#a032f581a2fee96aa1924dfe41eb8f2b2" title="MAST::PKFlutterSolution\l::~PKFlutterSolution" alt="" coords="479,40,680,87"/>
+<area shape="rect" id="node5" href="$class_m_a_s_t_1_1_p_k_flutter_solver.html#a9f0a3ca65bbf7f82961c02a117922a5b" title="Newton method to look for cross&#45;over point method search. " alt="" coords="485,111,673,157"/>
+<area shape="rect" id="node6" href="$class_m_a_s_t_1_1_p_k_flutter_solver.html#af0b119175e4644e030fef052e84636a5" title="Scans for flutter roots in the analyzed points, and identified the divergence (if k_red = 0..." alt="" coords="728,75,916,121"/>
+<area shape="rect" id="node7" href="$class_m_a_s_t_1_1_p_k_flutter_solver.html#ac321157f5e9e43aefe53fc0becfd1d55" title="MAST::PKFlutterSolver\l::_bisection_search" alt="" coords="728,145,916,192"/>
+<area shape="rect" id="node8" href="$class_m_a_s_t_1_1_p_k_flutter_solver.html#aa06e8ef2aeec378b162226b4c2ae9114" title="Looks through the list of flutter cross&#45;over points and iteratively zooms in to find the cross&#45;over p..." alt="" coords="964,109,1152,156"/>
+<area shape="rect" id="node9" href="$class_m_a_s_t_1_1_p_k_flutter_solver.html#aa51070e257ac45453538f7db87ebe081" title="This method checks if the flutter root corresponding to the lowest velocity crossover has been calcul..." alt="" coords="964,180,1152,227"/>
+</map>

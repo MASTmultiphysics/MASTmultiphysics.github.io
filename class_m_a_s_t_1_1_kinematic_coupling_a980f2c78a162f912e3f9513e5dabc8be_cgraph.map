@@ -1,0 +1,4 @@
+<map id="MAST::KinematicCoupling::add_dof_constraints_to_dof_map" name="MAST::KinematicCoupling::add_dof_constraints_to_dof_map">
+<area shape="rect" id="node2" href="$class_m_a_s_t_1_1_system_initialization.html#a40ed0a5367703c7bac16cc8d0917fc29" title="MAST::SystemInitialization\l::system" alt="" coords="264,5,477,52"/>
+<area shape="rect" id="node3" href="$class_m_a_s_t_1_1_kinematic_coupling.html#ad07a178a77e973cd7ddb9af190e5bcaf" title="Provides the vector of constraints and right&#45;hand&#45;side value pairs to be added to the system..." alt="" coords="265,76,476,123"/>
+</map>

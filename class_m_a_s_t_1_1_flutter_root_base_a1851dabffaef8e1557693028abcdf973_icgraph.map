@@ -1,0 +1,7 @@
+<map id="MAST::FlutterRootBase::copy_root" name="MAST::FlutterRootBase::copy_root">
+<area shape="rect" id="node2" href="$class_m_a_s_t_1_1_p_k_flutter_solver.html#a06d55242077acc1436b273cb030eb357" title="MAST::PKFlutterSolver\l::_insert_new_solution" alt="" coords="244,41,432,88"/>
+<area shape="rect" id="node3" href="$class_m_a_s_t_1_1_p_k_flutter_solver.html#af0b119175e4644e030fef052e84636a5" title="Scans for flutter roots in the analyzed points, and identified the divergence (if k_red = 0..." alt="" coords="480,5,668,52"/>
+<area shape="rect" id="node4" href="$class_m_a_s_t_1_1_p_k_flutter_solver.html#ac321157f5e9e43aefe53fc0becfd1d55" title="MAST::PKFlutterSolver\l::_bisection_search" alt="" coords="480,76,668,123"/>
+<area shape="rect" id="node5" href="$class_m_a_s_t_1_1_p_k_flutter_solver.html#aa06e8ef2aeec378b162226b4c2ae9114" title="Looks through the list of flutter cross&#45;over points and iteratively zooms in to find the cross&#45;over p..." alt="" coords="716,40,904,87"/>
+<area shape="rect" id="node6" href="$class_m_a_s_t_1_1_p_k_flutter_solver.html#aa51070e257ac45453538f7db87ebe081" title="This method checks if the flutter root corresponding to the lowest velocity crossover has been calcul..." alt="" coords="716,111,904,157"/>
+</map>

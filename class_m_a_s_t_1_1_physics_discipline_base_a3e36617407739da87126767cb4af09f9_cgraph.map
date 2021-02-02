@@ -1,0 +1,4 @@
+<map id="MAST::PhysicsDisciplineBase::init_system_dirichlet_bc" name="MAST::PhysicsDisciplineBase::init_system_dirichlet_bc">
+<area shape="rect" id="node2" href="$class_m_a_s_t_1_1_physics_discipline_base.html#afcd051544e72d911c8b398c42c7e24ff" title="clears the system dirichlet boundary conditions " alt="" coords="292,5,531,52"/>
+<area shape="rect" id="node3" href="$class_m_a_s_t_1_1_physics_discipline_base.html#a70c15ce8a2801d96f47ac1f27427e60b" title="Prepares a list of the constrained dofs for system sys and returns in dof_ids. " alt="" coords="579,5,820,52"/>
+</map>

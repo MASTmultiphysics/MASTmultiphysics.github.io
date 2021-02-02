@@ -1,0 +1,4 @@
+<map id="MAST::TimeDomainFlutterSolver::print_sorted_roots" name="MAST::TimeDomainFlutterSolver::print_sorted_roots">
+<area shape="rect" id="node2" href="$class_m_a_s_t_1_1_time_domain_flutter_solver.html#a65519aad497131e29ccf3c39660ceedc" title="finds the number of critical points already identified in the procedure. " alt="" coords="619,5,877,52"/>
+<area shape="rect" id="node3" href="$class_m_a_s_t_1_1_time_domain_flutter_solver.html#aed82874993685498305c86947191b92f" title="returns the n th root in terms of ascending velocity that is found by the solver " alt="" coords="312,36,571,83"/>
+</map>

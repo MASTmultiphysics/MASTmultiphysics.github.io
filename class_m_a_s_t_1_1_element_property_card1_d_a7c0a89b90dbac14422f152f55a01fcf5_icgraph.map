@@ -1,0 +1,4 @@
+<map id="MAST::ElementPropertyCard1D::bending_model" name="MAST::ElementPropertyCard1D::bending_model">
+<area shape="rect" id="node2" href="$class_m_a_s_t_1_1_element_property_card1_d.html#a354aeacd93d0ae69023f2f1e38494f8e" title="returns the bending model to be used for the 2D element " alt="" coords="292,5,531,52"/>
+<area shape="rect" id="node3" href="$class_m_a_s_t_1_1_element_property_card1_d.html#a41a761d657edf525bb51a8e20cc80349" title="returns the extra quadrature order (on top of the system) that this element should use..." alt="" coords="292,76,531,123"/>
+</map>

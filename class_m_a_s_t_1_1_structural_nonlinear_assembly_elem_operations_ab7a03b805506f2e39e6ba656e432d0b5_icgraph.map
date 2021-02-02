@@ -1,0 +1,5 @@
+<map id="MAST::StructuralNonlinearAssemblyElemOperations::init" name="MAST::StructuralNonlinearAssemblyElemOperations::init">
+<area shape="rect" id="node2" href="$class_m_a_s_t_1_1_structural_nonlinear_assembly_elem_operations.html#a605c90345d8d357c959ab996b9a12bdc" title="sets the structural element y&#45;vector if 1D element is used. " alt="" coords="289,33,503,97"/>
+<area shape="rect" id="node4" href="$class_m_a_s_t_1_1_structural_nonlinear_assembly_elem_operations.html#a9dc640641276bf8762b875b836e4fb0b" title="performs the element shape sensitivity calculations over elem, and returns the element residual sensi..." alt="" coords="551,94,764,175"/>
+<area shape="rect" id="node3" href="$class_m_a_s_t_1_1_structural_nonlinear_assembly_elem_operations.html#a9e25ae6005bf46e7858612ceb652ac54" title="sets the element solution(s) before calculations " alt="" coords="551,5,764,69"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="MAST::LAPACK_ZGGEV::compute" name="MAST::LAPACK_ZGGEV::compute">
+<area shape="rect" id="node2" href="$class_m_a_s_t_1_1_p_k_flutter_solver.html#a9f0a3ca65bbf7f82961c02a117922a5b" title="Newton method to look for cross&#45;over point method search. " alt="" coords="267,76,455,123"/>
+<area shape="rect" id="node7" href="$class_m_a_s_t_1_1_u_g_flutter_solver.html#ae016f191ff3c7de7d2aef7ecec980484" title="performs an eigensolution at the specified reference value, and sort the roots based on the provided ..." alt="" coords="266,147,457,193"/>
+<area shape="rect" id="node13" href="$class_m_a_s_t_1_1_l_a_p_a_c_k___z_g_g_e_v.html#a56cde87f527f71f131d503620d14b1f3" title="MAST::LAPACK_ZGGEV\l::LAPACK_ZGGEV" alt="" coords="259,217,464,264"/>
+<area shape="rect" id="node3" href="$class_m_a_s_t_1_1_p_k_flutter_solver.html#af0b119175e4644e030fef052e84636a5" title="Scans for flutter roots in the analyzed points, and identified the divergence (if k_red = 0..." alt="" coords="513,5,701,52"/>
+<area shape="rect" id="node4" href="$class_m_a_s_t_1_1_p_k_flutter_solver.html#ac321157f5e9e43aefe53fc0becfd1d55" title="MAST::PKFlutterSolver\l::_bisection_search" alt="" coords="513,76,701,123"/>
+<area shape="rect" id="node5" href="$class_m_a_s_t_1_1_p_k_flutter_solver.html#aa06e8ef2aeec378b162226b4c2ae9114" title="Looks through the list of flutter cross&#45;over points and iteratively zooms in to find the cross&#45;over p..." alt="" coords="752,5,940,52"/>
+<area shape="rect" id="node6" href="$class_m_a_s_t_1_1_p_k_flutter_solver.html#aa51070e257ac45453538f7db87ebe081" title="This method checks if the flutter root corresponding to the lowest velocity crossover has been calcul..." alt="" coords="752,76,940,123"/>
+<area shape="rect" id="node8" href="$class_m_a_s_t_1_1_u_g_flutter_solver.html#ac9a3d02c50d12262acb7f5553dea6532" title="Scans for flutter roots in the analyzed points, and identified the divergence (if k_red = 0..." alt="" coords="512,147,703,193"/>
+<area shape="rect" id="node9" href="$class_m_a_s_t_1_1_u_g_flutter_solver.html#a5c201dbe4a0d6ce1625480cf95c538b6" title="bisection method search " alt="" coords="512,217,703,264"/>
+<area shape="rect" id="node10" href="$class_m_a_s_t_1_1_u_g_flutter_solver.html#a0fa5406e69027986af37ba47df59fa21" title="Looks through the list of flutter cross&#45;over points and iteratively zooms in to find the cross&#45;over p..." alt="" coords="751,147,941,193"/>
+<area shape="rect" id="node11" href="$class_m_a_s_t_1_1_u_g_flutter_solver.html#a89e0fe072c3d810753925f0cd0674028" title="This method checks if the flutter root corresponding to the lowest velocity crossover has been calcul..." alt="" coords="751,217,941,264"/>
+<area shape="rect" id="node12" href="$class_m_a_s_t_1_1_u_g_flutter_solver.html#a894cd84e5d2da97c14e0c21413bcedf9" title="Prints the crossover points output. " alt="" coords="751,288,941,335"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="MAST::Solid1DSectionElementPropertyCard::depends_on" name="MAST::Solid1DSectionElementPropertyCard::depends_on">
+<area shape="rect" id="node2" href="$class_m_a_s_t_1_1_solid1_d_section_property_1_1_thermal_capacitance_matrix.html#ac4936898a52f5babf447086257c35b75" title="calculates the value of the derivative of function with respect to the function f at the specified po..." alt="" coords="300,5,547,69"/>
+<area shape="rect" id="node3" href="$class_m_a_s_t_1_1_solid1_d_section_element_property_card.html#a5a3e79d3ca7f046c3a7e59d71e68203e" title="returns a reference to the material " alt="" coords="300,94,547,141"/>
+</map>

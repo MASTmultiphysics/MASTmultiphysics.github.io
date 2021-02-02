@@ -1,0 +1,6 @@
+<map id="MAST::StructuralTransientAssemblyElemOperations::elem_second_derivative_dot_solution_assembly" name="MAST::StructuralTransientAssemblyElemOperations::elem_second_derivative_dot_solution_assembly">
+<area shape="rect" id="node2" href="$class_m_a_s_t_1_1_structural_transient_assembly_elem_operations.html#a905ad1a0d9768d805270812d55210581" title="sets the structural element y&#45;vector if 1D element is used. " alt="" coords="264,67,475,131"/>
+<area shape="rect" id="node3" href="$class_m_a_s_t_1_1_physics_discipline_base.html#ad2cda45ae1adb14de024e9d63ca63bc1" title="get property card for the specified element " alt="" coords="523,5,761,52"/>
+<area shape="rect" id="node4" href="$class_m_a_s_t_1_1_geom_elem.html#a0b2835bfec517d2e199cea273f1e59ea" title="for 1D elements the transformed coordinate system attached to the element defines the local x&#45;axis al..." alt="" coords="550,76,734,123"/>
+<area shape="rect" id="node5" href="$class_m_a_s_t_1_1_element_property_card1_d.html#a82f8c6cee367fbe4d3e4796d4d78ac72" title="returns value of the property val. " alt="" coords="523,147,761,193"/>
+</map>

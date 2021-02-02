@@ -1,0 +1,11 @@
+<map id="MAST::TimeDomainFlutterSolver::_initialize_matrices" name="MAST::TimeDomainFlutterSolver::_initialize_matrices">
+<area shape="rect" id="node2" href="$class_m_a_s_t_1_1_time_domain_flutter_solver.html#abf721ecd480367a291f963c17727ec61" title="performs an eigensolution at the specified reference value, and sort the roots based on the provided ..." alt="" coords="312,169,571,216"/>
+<area shape="rect" id="node9" href="$class_m_a_s_t_1_1_time_domain_flutter_solver.html#af4d42acf8b7ffaba03f87fc896eed92b" title="Calculate the sensitivity of the flutter root with respect to the f parameter. " alt="" coords="312,255,571,301"/>
+<area shape="rect" id="node3" href="$class_m_a_s_t_1_1_time_domain_flutter_solver.html#a8756226e06477517aa2f34c163109695" title="This root starts with the lower velocity and increments the speed till a single unstable root is iden..." alt="" coords="619,145,877,209"/>
+<area shape="rect" id="node5" href="$class_m_a_s_t_1_1_time_domain_flutter_solver.html#a247292465fd7a1cc4da06c885ffe8877" title="Scans for flutter roots in the analyzed points, and identified the divergence (if k_red = 0..." alt="" coords="925,251,1184,297"/>
+<area shape="rect" id="node6" href="$class_m_a_s_t_1_1_time_domain_flutter_solver.html#a9f3d8ca9cc116fd56c8c1a27655f24e2" title="bisection method search " alt="" coords="619,73,877,120"/>
+<area shape="rect" id="node4" href="$class_m_a_s_t_1_1_time_domain_flutter_solver.html#a3a8a0b5dbfd3bd2afbfedd11dcd81f64" title="This method checks if the flutter root corresponding to the lowest velocity crossover has been calcul..." alt="" coords="925,151,1184,197"/>
+<area shape="rect" id="node7" href="$class_m_a_s_t_1_1_time_domain_flutter_solver.html#a358b15c56c3102eaf21a3aada118d3db" title="Looks through the list of flutter cross&#45;over points and iteratively zooms in to find the cross&#45;over p..." alt="" coords="925,5,1184,52"/>
+<area shape="rect" id="node8" href="$class_m_a_s_t_1_1_time_domain_flutter_solver.html#a8b7f44d7663fb31765cd91cb3b25e84c" title="Prints the crossover points output. " alt="" coords="925,76,1184,123"/>
+<area shape="rect" id="node10" href="$class_m_a_s_t_1_1_time_domain_flutter_solver.html#a4cf15c993f5d7b4081386f6cf6bfb773" title="identifies all cross&#45;over and divergence points from analyzed roots " alt="" coords="619,284,877,331"/>
+</map>

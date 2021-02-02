@@ -1,0 +1,5 @@
+<map id="MAST::TransientSolverBase::get_elem_operation_object" name="MAST::TransientSolverBase::get_elem_operation_object">
+<area shape="rect" id="node2" href="$class_m_a_s_t_1_1_transient_solver_base.html#abaa8ec9abf4ea925208d4de9b3580798" title="Attaches the assembly elem operations object that provides the x_dot, M and J quantities for the elem..." alt="" coords="279,5,504,52"/>
+<area shape="rect" id="node3" href="$class_m_a_s_t_1_1_system_initialization.html#a40ed0a5367703c7bac16cc8d0917fc29" title="MAST::SystemInitialization\l::system" alt="" coords="837,5,1051,52"/>
+<area shape="rect" id="node4" href="$class_m_a_s_t_1_1_transient_solver_base.html#a0c67cb06b3c5829dc0a77a0a3e8b7e50" title="Clears the assembly elem operations object. " alt="" coords="552,36,789,83"/>
+</map>

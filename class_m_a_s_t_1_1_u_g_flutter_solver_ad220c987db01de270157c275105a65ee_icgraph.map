@@ -1,0 +1,4 @@
+<map id="MAST::UGFlutterSolver::calculate_sensitivity" name="MAST::UGFlutterSolver::calculate_sensitivity">
+<area shape="rect" id="node2" href="$class_m_a_s_t_1_1_u_g_flutter_solver.html#a4cfcfc2bb856162b098c82a79ff73cee" title="identifies all cross&#45;over and divergence points from analyzed roots " alt="" coords="244,5,435,69"/>
+<area shape="rect" id="node3" href="$class_m_a_s_t_1_1_u_g_flutter_solver.html#ac9a3d02c50d12262acb7f5553dea6532" title="Scans for flutter roots in the analyzed points, and identified the divergence (if k_red = 0..." alt="" coords="483,14,673,61"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="MAST::NormalRotationFunctionBase&lt; ValType &gt;" name="MAST::NormalRotationFunctionBase&lt; ValType &gt;">
+<area shape="rect" id="node2" href="$class_m_a_s_t_1_1_field_function.html" title="This creates the base class for functions that have a saptial and temporal dependence, and provide sensitivity operations with respect to the functions and parameters. " alt="" coords="43,83,217,129"/>
+<area shape="rect" id="node3" href="$class_m_a_s_t_1_1_function_base.html" title="MAST::FunctionBase" alt="" coords="43,5,217,35"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="MAST::PhysicsDisciplineBase::constrain_subdomain_dofs_for_var" name="MAST::PhysicsDisciplineBase::constrain_subdomain_dofs_for_var">
+<area shape="rect" id="node2" href="$class_m_a_s_t_1_1_physics_discipline_base.html#af0b4df38f1d01ceb173ba58da2112ba0" title="adds the specified Dirichlet boundary condition for the boundary with tag b_id " alt="" coords="292,5,531,52"/>
+<area shape="rect" id="node4" href="$class_m_a_s_t_1_1_physics_discipline_base.html#a4b6dc12ce5b77d6ed5efc6e330b2e9de" title="MAST::PhysicsDisciplineBase\l::point_loads" alt="" coords="292,76,531,123"/>
+<area shape="rect" id="node3" href="$class_m_a_s_t_1_1_physics_discipline_base.html#aa1aaa66c39911a45a7042e1601a6e358" title="returns a reference to the libMesh::System object " alt="" coords="579,5,817,52"/>
+</map>

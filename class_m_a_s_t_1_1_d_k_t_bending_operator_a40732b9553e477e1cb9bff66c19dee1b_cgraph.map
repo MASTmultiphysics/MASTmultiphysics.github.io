@@ -1,0 +1,11 @@
+<map id="MAST::DKTBendingOperator::include_transverse_shear_energy" name="MAST::DKTBendingOperator::include_transverse_shear_energy">
+<area shape="rect" id="node2" href="$class_m_a_s_t_1_1_d_k_t_bending_operator.html#a661d0c86dfb79f360e1f8f5d68c7139c" title="initialze the bending strain operator for DKt element, withouth the z&#45;location. " alt="" coords="325,64,556,128"/>
+<area shape="rect" id="node3" href="$class_m_a_s_t_1_1_d_k_t_bending_operator.html#ae779ea6685810f872cb538a8d98f1e36" title="initializes the bending strain operator for the specified quadrature point and z&#45;location. " alt="" coords="604,85,835,149"/>
+<area shape="rect" id="node4" href="$class_m_a_s_t_1_1_d_k_t_bending_operator.html#a99c4321d4fbba64603ce319236ab04a8" title="MAST::DKTBendingOperator\l::_calculate_dkt_shape\l_functions" alt="" coords="883,71,1113,135"/>
+<area shape="rect" id="node5" href="$class_m_a_s_t_1_1_d_k_t_bending_operator.html#a21b40b5180e0afd5b611a4ba671d04b4" title="returns the cos of normal to the side defined by vector from node i to j " alt="" coords="1161,71,1420,118"/>
+<area shape="rect" id="node7" href="$class_m_a_s_t_1_1_d_k_t_bending_operator.html#a3ea0b1c8f8fa51a9b0e99ac10d09fe05" title="returns the length of the side defined by vector from node i to j " alt="" coords="1175,163,1406,210"/>
+<area shape="rect" id="node8" href="$class_m_a_s_t_1_1_f_e_m_operator_matrix.html#aad95bb357e56bd78f2a063098642580b" title="sets the shape function values for the block corresponding to interpolated_var and discrete_var..." alt="" coords="891,254,1105,301"/>
+<area shape="rect" id="node6" href="$class_m_a_s_t_1_1_geom_elem.html#ac2189ac7a9d1ac4926fd63f531f8478a" title="MAST::GeomElem::get\l_reference_elem" alt="" coords="1483,71,1668,118"/>
+<area shape="rect" id="node9" href="$class_m_a_s_t_1_1_f_e_m_operator_matrix.html#a0ab122cd5e142eb4f3ccd63f55487677" title="this initializes the operator for number of rows and variables, assuming that all variables has the s..." alt="" coords="1183,254,1398,301"/>
+<area shape="rect" id="node10" href="$class_m_a_s_t_1_1_f_e_m_operator_matrix.html#a67224893a9349eb0591c195a125b4764" title="clears the data structures " alt="" coords="1468,254,1683,301"/>
+</map>

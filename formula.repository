@@ -1,0 +1,137 @@
+\form#0:$ 0.3m \times 0.3m $
+\form#1:$ 10\times 10 $
+\form#2:$ 45^\circ $
+\form#3:\[ L x = \lambda R x \]
+\form#4:$ q(X,p) $
+\form#5:$ \frac{\partial q(X, p)}{\partial X} $
+\form#6:$ k^{th}$
+\form#7:$ u_k $
+\form#8:\[ u_k + \sum_{i=0, i\neq k}^{n-1} a_{u_i} u_i = b_k, \]
+\form#9:$ n $
+\form#10:$ a_{u_i} $
+\form#11:$ {\bf A} {\bf x} = \lambda {\bf B} {\bf x} $
+\form#12:$ A x = \lambda B x $
+\form#13:\[ r(X,p) = 0 \]
+\form#14:\[ A(X,p) = \lambda B(X,p) \]
+\form#15:$A(X,p)$
+\form#16:$B(X,p)$
+\form#17:\[ f_m(\dot{X}, X, p) + f(X,p) = 0 \]
+\form#18:$ [J] \{\Delta X\} $
+\form#19:$ d ([J] \{\Delta X\})/ dX $
+\form#20:$ [J] \{dX\} $
+\form#21:$ q(X, p) $
+\form#22:$ \frac{\partial q}{\partial p} $
+\form#23:$ \frac{\partial q}{\partial X} $
+\form#24:\[ \frac{\partial q(X, p)}{\partial p} \]
+\form#25:$ p $
+\form#26:\[ \frac{\partial q(X, p)}{\partial X} \]
+\form#27:\[ f_m(x,\dot{x}) + f_x(x) = 0 \]
+\form#28:$ f(x) $
+\form#29:$ f_m(x,\dot{x}) $
+\form#30:$ \frac{\partial (f_m(x)}{\partial \dot{x}} $
+\form#31:$ \frac{\partial (f_m(x)}{\partial x} $
+\form#32:$ \frac{\partial (f(x)}{\partial x} $
+\form#33:\[ f_m(x,\ddot{x}, \dot{x}) + f_x(x, \dot{x}) = 0 \]
+\form#34:$ f(x,\dot{x}) $
+\form#35:$ \frac{\partial (f_m(x)}{\partial \ddot{x}} $
+\form#36:$ \frac{\partial (f(x)}{\partial \dot{x}} $
+\form#37:$ df(x)/dx \cdot dx + df_m(x,\dot{x})/dx \cdot dx + df_m(x,\dot{x})/d\dot{x} \cdot d{\dot x} $
+\form#38:$ \frac{1}{2} U^T K U $
+\form#39:$p-$
+\form#40:\[ \frac{ \frac{1}{p} \left( \int_\Omega (\sigma_{VM}(\Omega))^p ~ d\Omega \right)^{\frac{1}{p}-1}}{\left( \int_\Omega ~ d\Omega \right)^{\frac{1}{p}}} \int_\Gamma V_n \sigma_{VM}^p ~d\Gamma + \frac{ \frac{-1}{p} \left( \int_\Omega (\sigma_{VM}(\Omega))^p ~ d\Omega \right)^{\frac{1}{p}}}{\left( \int_\Omega ~ d\Omega \right)^{\frac{1+p}{p}}} \int_\Gamma V_n ~d\Gamma \]
+\form#41:\[ u_s = u_m + \theta \times (X_s - X_m), \]
+\form#42:$ \theta $
+\form#43:$(\theta_x, \theta_y, \theta_z)$
+\form#44:$ u_s $
+\form#45:$ X_s $
+\form#46:$ (\cdot)_m $
+\form#47:\begin{eqnarray*} \theta \times dX & = & \left| \begin{array}{ccc} \hat{i} & \hat{j} & \hat{k} \\ \theta_x & \theta_y & \theta_z \\ dx & dy & dz \end{array} \right| \\ & = & \hat{i} (\theta_y dz - \theta_z dy) - \hat{j} (\theta_x dz - \theta_z dx) + \hat{k} (\theta_x dy - \theta_y dx) \end{eqnarray*}
+\form#48:\[ u_{xs} = u_{xm} + (\theta_y dz - \theta_z dy), \]
+\form#49:\[ u_{ys} = u_{ym} + (\theta_x dz - \theta_z dx), \]
+\form#50:\[ u_{zs} = u_{zm} + (\theta_x dy - \theta_y dx). \]
+\form#51:\[ \left( \frac{\int_\Omega (\sigma_{VM}(\Omega))^p ~ d\Omega}{\int_\Omega ~ d\Omega} \right)^{\frac{1}{p}} \]
+\form#52:\[ \frac{ \frac{1}{p} \left( \int_\Omega (\sigma_{VM}(\Omega))^p ~ d\Omega \right)^{\frac{1}{p}-1}}{\left( \int_\Omega ~ d\Omega \right)^{\frac{1}{p}}} \int_\Omega p (\sigma_{VM}(\Omega))^{p-1} \frac{d \sigma_{VM}(\Omega)}{dX} ~ d\Omega \]
+\form#53:$ \int_\Gamma a(\delta u, u) v_n ~d\Gamma $
+\form#54:$ x, y, z$
+\form#55:$ \sigma_{xx}, \sigma_{yy}, \sigma_{zz}$
+\form#56:$ \tau_{xy}, \tau_{yz}, \tau_{xz} $
+\form#57:$x, y, z$
+\form#58:$ \epsilon_{xx}, \epsilon_{yy}, \epsilon_{zz} $
+\form#59:$ \gamma_{xy}, \gamma_{yz}, \gamma_{xz} $
+\form#60:\[ \frac{ \frac{1}{p} \left( \int_\Omega (\sigma_{VM}(\Omega))^p ~ d\Omega \right)^{\frac{1}{p}-1}}{\left( \int_\Omega ~ d\Omega \right)^{\frac{1}{p}}} \int_\Omega p (\sigma_{VM}(\Omega))^{p-1} \frac{d \sigma_{VM}(\Omega)}{d\alpha} ~ d\Omega \]
+\form#61:$ p-$
+\form#62:$ K_1 x = \xi dK x$
+\form#63:$ dK = -(K_2 - K_1) $
+\form#64:$ \xi $
+\form#65:$ K_1 x = \xi (-K_2) x $
+\form#66:$ \beta = \frac{\xi}{1+\xi} $
+\form#67:$\lambda_1 $
+\form#68:$\lambda_2 $
+\form#69:$ \xi = 0 $
+\form#70:$ \xi = -1 $
+\form#71:$ df(x_s, x_f)/dx_f dx_f $
+\form#72:$ \{ \epsilon_{xx}, \epsilon_{yy}, \epsilon_{zz}, \epsilon_{xy}, \epsilon_{yz}, \epsilon_{zx}, \sigma_{xx}, \sigma_{yy}, \sigma_{zz}, \sigma_{xy}, \sigma_{yz}, \sigma_{zx}, \sigma_{vm} \} $
+\form#73:\[ dB[0] = \frac{\partial {\bf N}}{\partial x} \]
+\form#74:\[ dB[1] = \frac{\partial {\bf N}}{\partial y} \]
+\form#75:\[ dB[2] = \frac{\partial {\bf N}}{\partial z} \]
+\form#76:\[ \rho c_p \frac{\partial T}{\partial t} - \frac{\partial }{\partial x_i}\left( -k_{ij} \frac{\partial T}{\partial x_j} \right) = q_v \mbox{ in } \Omega \]
+\form#77:\[ M^k \dot{x}^k_t + f(x^k_t) = 0 \]
+\form#78:\[ M^k \dot{x}^k_t = \int_{\Omega_e} \phi \rho c_p \dot{x}^k_t \]
+\form#79:\[ f(x^k_t) = \int_{\Omega_e} \frac{\partial \phi}{\partial x_i} k_ij \frac{\partial T}{\partial x_j} - \int_{\partial\Omega_e \cap \partial_N\Omega} \phi q_n - \int_{\Omega_e} \phi q_v \]
+\form#80:$q_n$
+\form#81:$\partial_N\Omega$
+\form#82:$q_v$
+\form#83:\[ B = \left[ \begin{array}{c} {\bf N} \end{array} \right] \]
+\form#84:$ \tilde{\phi}_i = B_{ij} \phi_j $
+\form#85:$ \{ u_1, u_2, u_3, u_4, v_1, v_2, v_3, v_4 \} $
+\form#86:$ J_{uu} - J_{uf} J_{ff}^{-1} J_{fu} $
+\form#87:$ f_{u} - J_{uf} J_{ff}^{-1} f_{f} $
+\form#88:$ |\nabla(\phi)| = 1 $
+\form#89:\[ H_d(\phi) \approx \frac{1}{2} \left( 1 + \frac{2}{\pi} \arctan(\phi/d) \right). \]
+\form#90:\[ \delta_d(\phi) = \frac{dH_d(\phi)}{d\phi} = \frac{1}{\pi d} \frac{1}{1+(\phi/d)^2} . \]
+\form#91:\[ \frac{d\delta_d(\phi)}{d\alpha} = \frac{-2 \phi}{\pi d^3} \frac{1}{\left(1+(\phi/d)^2\right)^2} \frac{d\phi}{d\alpha}. \]
+\form#92:$ \delta_d(\phi) $
+\form#93:$ \int_\Gamma V_n d\Gamma $
+\form#94:$ V_n $
+\form#95:\[ B = \left[ \begin{array}{c} {\bf N} \\ {\bf N} \\ {\bf N} \end{array} \right] \]
+\form#96:\[ P(\phi) \approx \int_\Omega \delta_d(phi) ~d\Omega \]
+\form#97:$ \phi $
+\form#98:$ \int_\Gamma V_n~d\Gamma $
+\form#99:$ v_{global} = T v_{elem} $
+\form#100:$ M \times N $
+\form#101:$ A x = \lambda I x$
+\form#102:$ A x = \lambda B x$
+\form#103:$A x = \lambda B x$
+\form#104:$ \partial f_i/\partial x_j$
+\form#105:$ s $
+\form#106:\[ g(X, p, ds) = (x-x0) dx/ds + (p-p0) dp/ds - ds = 0, \]
+\form#107:$ X $
+\form#108:$ ds $
+\form#109:\[ g(X, p, ds) = X_{scale} * (X-X0) (dX/ds)_{scaled} + p_{scale} * (p-p0) (dp/ds)_{scaled} - ds_{scaled} = 0 \]
+\form#110:\begin{eqnarray*} g(X, p, ds) & = & X_{scale} * (X-X0) (dX/ds)_{scaled} + p_{scale} * (p-p0) (dp/ds)_{scaled} - ds_{scaled} = 0 \\ dg/dp & = & p_{scale} * (dp/ds)_{scaled} \\ dg/dX & = & X_{scale} * (dX/ds)_{scaled} \end{eqnarray*}
+\form#111:$ \left\{ \begin{array}{c} f(x, p) \\ g(x, p) \end{array} \right\} = \left\{ \begin{array}{c} 0 \\ 0 \end{array} \right\} $
+\form#112:\[ \left[ \begin{array}{cc} df/dx & df/dp \\ dg/dx & dg/dp \end{array}\right] \left\{ \begin{array}{c} dx \\ dp \end{array} \right\} = - \left\{ \begin{array}{c} f(x0, p0) \\ g(x0, p0) \end{array} \right\} \]
+\form#113:$ \Delta s \left(\frac{N_{desired}}{N_{actual}}\right)^p $
+\form#114:\[ \left[ \begin{array}{cc} df/dx & df/dp \\ dg/dx & dg/dp \end{array}\right] \left\{ \begin{array}{c} dx \\ dp \end{array} \right\} = - \left\{ \begin{array}{c} f \\ g \end{array} \right\} \]
+\form#115:\[ r = beta*dt(f_m + f_x )= 0 \]
+\form#116:\begin{eqnarray*} f_m & = & int_Omega phi u_dot \mbox{ [typical mass vector in conduction, for example]}\\ f_x & = & int_Omega phi_i u_i - int_Gamma phi q_n \mbox{ [typical conductance and heat flux combination, for example]} \end{eqnarray*}
+\form#117:$ \rho_\infty $
+\form#118:$ \alpha_m $
+\form#119:$ \alpha_f $
+\form#120:\[ g(X, p, ds) = (Y - \tilde{Y} )^T t_1 = 0 , \]
+\form#121:$ Y = \{ X^T p \}^T $
+\form#122:$\tilde{Y} $
+\form#123:$ t_1 $
+\form#124:$ \tilde{Y} = Y_0 - ds t_1 $
+\form#125:\[ (Y - Y_0 - ds * t_1)^T t_1 = 0 , \]
+\form#126:$ \| t_1 \| = 1 $
+\form#127:\[ Y^T t_1 - Y_0^T t_1 - ds = 0 . \]
+\form#128:\[ \left[ \begin{array}{cc} df/dx & df/dp \\ t_0^X & t_0^p \end{array} \right] \left\{ \begin{array}{c} t_1^X \\ t_1^p \end{array} \right\} = \left\{ \begin{array}{c} 0 \\ 1 \end{array} \right\} \]
+\form#129:\[ g(X, p, ds) = X_{scale} * (X-X0) (dX/ds)_{scaled} + p_{scale} * (p-p0) (dp/ds)_{scaled} - ds = 0, \]
+\form#130:$ t_1^{X} = (dX/ds)_{scaled} $
+\form#131:$ t_1^{p} = (dp/ds)_{scaled} $
+\form#132:\begin{eqnarray*} g(X, p, ds) & = & (Y-Y_0)^T t_1 - ds = 0 \\ Y & = & \{ X_{scale} X^T, p_{scale} p\}^T \\ dg/dp & = & p_{scale} t_1^p \\ dg/dX & = & X_{scale} t_1^X, \end{eqnarray*}
+\form#133:$ $
+\form#134:$ \beta $
+\form#135:$ \gamma $
+\form#136:$ \bar{a} $

@@ -1,0 +1,4 @@
+<map id="MAST::TransientAssembly::set_post_assembly_operation" name="MAST::TransientAssembly::set_post_assembly_operation">
+<area shape="rect" id="node2" href="$class_m_a_s_t_1_1_transient_assembly.html#a8f830d9fc8588aa89430ce56a66eec48" title="destructor resets the association of this assembly object with the system " alt="" coords="296,5,508,52"/>
+<area shape="rect" id="node3" href="$class_m_a_s_t_1_1_transient_assembly_1_1_post_assembly_operation.html#a9cd8a1197c579229ae5b8a20fbb359fb" title="MAST::TransientAssembly\l::PostAssemblyOperation\l::~PostAssemblyOperation" alt="" coords="556,27,768,91"/>
+</map>

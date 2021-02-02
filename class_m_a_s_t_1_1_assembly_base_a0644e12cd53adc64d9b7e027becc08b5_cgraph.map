@@ -1,0 +1,6 @@
+<map id="MAST::AssemblyBase::set_discipline_and_system" name="MAST::AssemblyBase::set_discipline_and_system">
+<area shape="rect" id="node2" href="$class_m_a_s_t_1_1_assembly_base.html#a447c284ed86a61935a8498a5fee23462" title="MAST::AssemblyBase\l::discipline" alt="" coords="236,5,419,52"/>
+<area shape="rect" id="node3" href="$class_m_a_s_t_1_1_assembly_base.html#abdff8292b4929a3aa7276c639a8d05e3" title="MAST::AssemblyBase\l::system" alt="" coords="236,76,419,123"/>
+<area shape="rect" id="node5" href="$class_m_a_s_t_1_1_assembly_base.html#a9f7f65a2be3dc8f6edb9000020aa8ccf" title="clears association with a system to this discipline " alt="" coords="236,147,419,211"/>
+<area shape="rect" id="node4" href="$class_m_a_s_t_1_1_system_initialization.html#a40ed0a5367703c7bac16cc8d0917fc29" title="MAST::SystemInitialization\l::system" alt="" coords="467,76,680,123"/>
+</map>
